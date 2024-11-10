@@ -1,0 +1,10 @@
+langchain-community
+pypdf
+langchain-google-genai
+chromadb
+langchain-groq
+
+export GOOGLE_API_KEY=your-api-key
+export GROQ_API_KEY=gsk_...
+
+
